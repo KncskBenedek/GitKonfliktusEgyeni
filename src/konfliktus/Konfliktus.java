@@ -8,7 +8,7 @@ public class Konfliktus {
 
         String nev1 = "Koncsik Benedek";
         String nev2 = "X.Y.";
-
+        String nev3;
     }
     
 }
